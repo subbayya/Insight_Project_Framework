@@ -1,4 +1,4 @@
-# Sherlock-ML-for-text-labelin
+# Sherlock-ML-for-text-labeling
 Framework for machine learning projects at Insight Data Science.
 
 - **Sherlock-ML-for-text-labeling** : 
