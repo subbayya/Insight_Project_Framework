@@ -1,5 +1,5 @@
 """
-Pick samples for clustering
+pick samples for labeling using  clustering
 """
 
 
